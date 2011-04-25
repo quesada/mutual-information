@@ -1,0 +1,2 @@
+implementation of mutual information in R, just to understand how it works and
+whether it's a good match for the use case we have in mind.
